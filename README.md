@@ -1,1 +1,2 @@
 # Empty AssemblyScript Project
+# wasmDojo
